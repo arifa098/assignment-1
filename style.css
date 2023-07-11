@@ -53,8 +53,24 @@ button{
     margin-bottom: 90px;
 }
 #insta-sec > div > img{
-    width: 220px;
+    width: 240px;
     margin-right: 10px;
+}
+
+/* Email section */
+#email-sec{
+    text-align: center; 
+    padding: 100px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin:0 180px 90px 165px;
+}
+input{
+    padding: 14px 200px 14px 10px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
 }
 
 /* Footer */
