@@ -2,6 +2,9 @@
     font-family: 'Lato', sans-serif;
     margin:0;
 }
+p{
+    color: gray;
+}
 .text-gap{
     margin-bottom: 20px;
 }
@@ -113,5 +116,5 @@ footer{
     padding: 100px;
 }
 footer small{
-    color: grey;
+    color: rgba(128, 128, 128, 0.534);
 }
