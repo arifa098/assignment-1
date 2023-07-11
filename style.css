@@ -32,6 +32,19 @@ button{
     width: 450px;
 }
 
+/* Hot Deals Section */
+#deals-sec{
+    background-color: #e5547315;
+    display: flex;
+    padding: 50px 50px 50px 350px;
+    text-align: center;
+    align-items: center;
+    gap: 100px;
+}
+#deals-sec > div > img{
+    width: 220px;
+}
+
 /* Footer */
 footer{
     color: #ffffff;
