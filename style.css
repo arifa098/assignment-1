@@ -33,6 +33,29 @@ button{
     width: 450px;
 }
 
+/* Featured Section(bonus) */
+#bonus-sec{
+    text-align: center;
+    margin: 0 180px 90px;
+}
+#bonus-sec > figure > div > img{
+    border-radius: 200px 200px 0 0;
+    width: 230px;
+    margin: 10px;
+}
+#img1{
+    padding: 80px 45px 0 45px;
+}
+#img2{
+    padding: 130px 40px 35px;
+}
+#img3{
+    padding: 50px 45px 0 45px;
+}
+figcaption{
+    text-decoration: underline;
+}
+
 /* Hot Deals Section */
 #deals-sec{
     background-color: #e5547315;
