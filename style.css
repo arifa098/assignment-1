@@ -96,6 +96,15 @@ input{
     border-radius: 5px;
 }
 
+/* New Section(bonus) */
+#feedback-sec{
+    text-align: center;
+    margin:0 160px 90px;
+    background-color: #477d1128;
+    border-radius: 10px;
+    padding: 50px;
+}
+
 /* Footer */
 footer{
     color: #ffffff;
