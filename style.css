@@ -1,19 +1,44 @@
 *{
     font-family: 'Lato', sans-serif;
     margin: 0%;
+}
+.text-gap{
     margin-bottom: 20px;
 }
 span{
     color: #e55473;
 }
+button{
+    padding: 15px 25px;
+    background-color: #e55473;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Banner */
+.banner{
+    background-color: #e5547327;
+    padding: 30px 30px 0 150px;
+    display: flex;
+    align-items: center;
+    gap: 100px;   
+}
+#banner-title{
+    font-size: 55px;
+    font-weight: 700;
+}
+.banner > img{
+    width: 450px;
+}
 
 /* Footer */
-footer div{
+footer{
     color: #ffffff;
     background-color: black;
     text-align: center;
     padding: 100px;
 }
-footer div small{
+footer small{
     color: grey;
 }
