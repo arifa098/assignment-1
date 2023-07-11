@@ -1,6 +1,6 @@
 *{
     font-family: 'Lato', sans-serif;
-    margin: 0%;
+    margin:0;
 }
 .text-gap{
     margin-bottom: 20px;
@@ -22,7 +22,8 @@ button{
     padding: 30px 30px 0 150px;
     display: flex;
     align-items: center;
-    gap: 100px;   
+    gap: 100px;
+    margin-bottom: 90px;
 }
 #banner-title{
     font-size: 55px;
@@ -40,9 +41,20 @@ button{
     text-align: center;
     align-items: center;
     gap: 100px;
+    margin-bottom: 90px;
 }
 #deals-sec > div > img{
     width: 220px;
+}
+
+/* Instagram Section */
+#insta-sec{
+    text-align: center;
+    margin-bottom: 90px;
+}
+#insta-sec > div > img{
+    width: 220px;
+    margin-right: 10px;
 }
 
 /* Footer */
